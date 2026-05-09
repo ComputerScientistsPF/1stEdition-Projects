@@ -1,7 +1,7 @@
-/* الإعدادات الأساسية */
+
 :root {
-    --primary-color: #2b1b54; /* لون الشعار البنفسجي الداكن */
-    --secondary-color: #48e5e5; /* لون الشعار السماوي */
+    --primary-color: #2b1b54;
+    --secondary-color: #48e5e5; 
     --bg-color: #f8f9fa;
     --text-color: #333;
     --card-bg: #ffffff;
