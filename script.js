@@ -54,7 +54,7 @@ const setLanguage = (lang) => {
         htmlElement.style.fontFamily = "'Tajawal', sans-serif";
     }
     
-    ا
+
     document.querySelectorAll('[data-en][data-ar]').forEach(el => {
         el.innerHTML = el.getAttribute(`data-${lang}`);
     });
